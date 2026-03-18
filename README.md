@@ -18,9 +18,7 @@ I specialize in creating **interactive web applications** using **React.js, Java
 🎯 Currently seeking opportunities as a **Frontend Developer / Data Analyst** to grow, learn, and build impactful solutions.
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=console.log(%22Hello+World!%22);Ashish+Anand+Here+👨‍💻;Frontend+%2B+Data+Enthusiast;Coding+%7C+Learning+%7C+Building+🚀" />
-</p>
+
 
 ## 🌐 Connect With Me
 <p align="left">
