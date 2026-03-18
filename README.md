@@ -18,7 +18,9 @@ I specialize in creating **interactive web applications** using **React.js, Java
 🎯 Currently seeking opportunities as a **Frontend Developer / Data Analyst** to grow, learn, and build impactful solutions.
 
 ---
-<img src="https://camo.githubusercontent.com/8a41b77def005b08da620df12d59eed451eeab9a93d9deee185e229107f2301f/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f6465267765696768743d3630302673697a653d32322670617573653d3130303026636f6c6f723d4637354337452663656e7465723d74727565267643656e7465723d747275652672616e646f6d3d66616c73652677696474683d353030266c696e65733d48692b7468657265212b49276d2b53756a6565742b59616461763b4173706972696e672b536f6674776172652b446576656c6f706572213b4f70656e2b536f757263652b436f6e7472696275746f72213b50617373696f6e6174652b61626f75742b546563682b2532362b496e6e6f766174696f6e21" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=500&amp;lines=Hi+there!+I'm+Ashish +Anand;Aspiring+Software+Developer!;Open+Source+Contributor!;Passionate+about+Tech+%26+Innovation!" style="max-width: 100%;">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=console.log(%22Hello+World!%22);Ashish+Anand+Here+👨‍💻;Frontend+%2B+Data+Enthusiast;Coding+%7C+Learning+%7C+Building+🚀" />
+</p>
 
 ## 🌐 Connect With Me
 <p align="left">
